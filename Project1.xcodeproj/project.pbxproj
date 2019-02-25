@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C85453B2223DD7D001C155E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C85453A2223DD7D001C155E /* DetailViewController.swift */; };
 		9CB92C19221FE4A7000573FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB92C18221FE4A7000573FB /* AppDelegate.swift */; };
 		9CB92C1B221FE4A7000573FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB92C1A221FE4A7000573FB /* ViewController.swift */; };
 		9CB92C1E221FE4A7000573FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CB92C1C221FE4A7000573FB /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C85453A2223DD7D001C155E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		9CB92C15221FE4A7000573FB /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CB92C18221FE4A7000573FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CB92C1A221FE4A7000573FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			children = (
 				9CB92C18221FE4A7000573FB /* AppDelegate.swift */,
 				9CB92C1A221FE4A7000573FB /* ViewController.swift */,
+				9C85453A2223DD7D001C155E /* DetailViewController.swift */,
 				9CB92C1C221FE4A7000573FB /* Main.storyboard */,
 				9CB92C1F221FE4A8000573FB /* Assets.xcassets */,
 				9CB92C21221FE4A8000573FB /* LaunchScreen.storyboard */,
@@ -184,6 +187,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C85453B2223DD7D001C155E /* DetailViewController.swift in Sources */,
 				9CB92C1B221FE4A7000573FB /* ViewController.swift in Sources */,
 				9CB92C19221FE4A7000573FB /* AppDelegate.swift in Sources */,
 			);
